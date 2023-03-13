@@ -22,11 +22,36 @@
 }
 .second{
     float:right;
-    background-color: rgb(103, 186, 249);
+    background-color: rgb(9, 144, 247);
 }
-img{
+/*Twitter logo*/
+.logo{
     padding-top: 50px;
     padding-left: 180px;
     padding-right: 200px;
-   
+}
+.puppy{
+    height: 300px;
+    width: 300px;
+    padding-left:50px;
+}
+.write{
+    border:0;
+    box-shadow: 1px 2px 1px rgb(160, 164, 168);
+    padding: 10px;
+    width: 200px;
+    margin-left: 100px;
+    border-radius: 5px; 
+    color:rgb(245, 241, 241);
+}
+.forgot{
+    margin-left: 100px;
+    padding-top:10px;
+}
+button{
+    border: 0px;
+    background-color: rgb(147, 179, 238);
+    margin-left: 100px;
+    width: 200px;
+    padding:15px;
 }
