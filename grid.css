@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(113, 42, 179);
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap:20px;
+    grid-template-rows: 40px 60px 200px;
+    justify-content:start;
+    
+}
+.container>div{
+    background-color: azure;
+}
+.container>p{
+    text-decoration: underline;
+    color:aquamarine;
+}
+.container>div>p{
+    color:blue;
+}
