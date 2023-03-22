@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    align-items: stretch;
+    height:400px;
+    background-color: black;
+    width: 400px;
+    Gap:5px
+}
+
+.item{
+    background-color: rgb(14, 105, 74);
+    padding: 5px;
+    margin: 10px;
+}
